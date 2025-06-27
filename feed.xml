@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>lifestyle</title>
+    <title>By Kay Ais</title>
     <link href="https://kawtharais.github.io/feed.xml" rel="self" />
     <link href="https://kawtharais.github.io" />
     <updated>2025-06-22T17:57:41+01:00</updated>
     <author>
-        <name>auther</name>
+        <name>By Kay Ais</name>
     </author>
     <id>https://kawtharais.github.io</id>
 
     <entry>
         <title>Post-3</title>
         <author>
-            <name>auther</name>
+            <name>By Kay Ais</name>
         </author>
         <link href="https://kawtharais.github.io/post-3.html"/>
         <id>https://kawtharais.github.io/post-3.html</id>
@@ -88,7 +88,7 @@
     <entry>
         <title>Post-2</title>
         <author>
-            <name>auther</name>
+            <name>By Kay Ais</name>
         </author>
         <link href="https://kawtharais.github.io/post-2.html"/>
         <id>https://kawtharais.github.io/post-2.html</id>
@@ -164,7 +164,7 @@
     <entry>
         <title>Post-1</title>
         <author>
-            <name>auther</name>
+            <name>By Kay Ais</name>
         </author>
         <link href="https://kawtharais.github.io/post-1.html"/>
         <id>https://kawtharais.github.io/post-1.html</id>
